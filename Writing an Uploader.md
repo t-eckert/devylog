@@ -8,3 +8,5 @@ At a high-level, the uploader needs to do just a few things:
 2. Check what has changed since the last upload of this repository
 3. Update all posts in the repository accordingly
 4. Clean up after itself
+
+A Little more!+
