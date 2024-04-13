@@ -1,9 +1,10 @@
 # Writing an Uploader
 
-Writing an uploader is so tough!
+Devy is based around "deploying" blog posts when user pushes markdown to a GitHub repository. Therefore, a big part of the critical functionality of Devy is a Git-based post uploader.
 
-This is an addition to an exising file.
+At a high-level, the uploader needs to do just a few things:
 
-I am hoping that this gets uploaded when I push.
-
-I am writing an update to show Sophia how it works.
+1. Clone the repository
+2. Check what has changed since the last upload of this repository
+3. Update all posts in the repository accordingly
+4. Clean up after itself
