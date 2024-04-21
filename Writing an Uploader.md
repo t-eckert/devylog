@@ -9,4 +9,4 @@ At a high-level, the uploader needs to do just a few things:
 3. Update all posts in the repository accordingly
 4. Clean up after itself
 
-A Little more!+
+A Little more!
