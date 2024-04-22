@@ -9,4 +9,4 @@ At a high-level, the uploader needs to do just a few things:
 3. Update all posts in the repository accordingly
 4. Clean up after itself
 
-A Little more!
+I wrote the uploader for Devy about 3 times. I created the first implementation when the site was still based on Next.js. It ran as a serverless function in Vercel. It worked well enough, but I decided to move away from it for two reasons.
