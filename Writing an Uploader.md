@@ -1,7 +1,3 @@
----
-status: draft
----
-
 # Writing an Uploader
 
 Devy is based around "deploying" blog posts when user pushes markdown to a GitHub repository. Therefore, a big part of the critical functionality of Devy is a Git-based post uploader.
