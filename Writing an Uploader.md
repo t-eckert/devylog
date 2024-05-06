@@ -11,7 +11,7 @@ At a high-level, the uploader needs to do just a few things:
 
 I wrote the uploader for Devy about 3 times. Once each in TypeScript, Go, then finally Rust.
 
-# The Next.JS Uploader
+## The Next.JS Uploader
 
 I created the first implementation when the site was still based on Next.js. It ran as a serverless function in Vercel. It worked well enough, but I decided to move away from it for two reasons.
 
